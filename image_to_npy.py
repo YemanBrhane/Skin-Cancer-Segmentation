@@ -21,7 +21,7 @@ import cv2
 # Variables
 #-----------------------------------------------------------------------
 # directory for images
-dataPath = 'D:\MAIA_Italy\SKIN_CANCER'
+dataPath = 'data'
 
 # image size for resizing
 numRows = 64*3
